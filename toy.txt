@@ -21,5 +21,3 @@ yahoo
 wikipedia
 amazon
 twitter
-qq
-live
